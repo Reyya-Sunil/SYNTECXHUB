@@ -1,0 +1,2 @@
+# SYNTECXHUB
+Mini project
